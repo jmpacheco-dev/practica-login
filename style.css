@@ -140,7 +140,7 @@ button:hover {
   padding-left: 30px;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 600px) {
   .dibujo {
     visibility: hidden;
     display: none;
